@@ -1,0 +1,5 @@
+.DS_Store
+docs/**/*.*
+
+# !docs/images/**/
+!docs/images/**/*.png
